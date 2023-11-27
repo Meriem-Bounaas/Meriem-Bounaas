@@ -7,7 +7,6 @@
 - 📫 How to reach me **www.linkedin.com/in/meriem-bounaas-a84171243/**
 
 - ⚡ Fun fact **I’m currently learning everything 🤣**
-
 ---
 
 <h3 align="center">Languages and Tools</h3>
@@ -22,9 +21,9 @@
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="50" height="50"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
 </p>
-  
-  
+
   ---
+  
 <details>
   <summary><strong><h3>GitHub Statistical Reports:</h3></strong></summary>
   <br>
@@ -44,7 +43,6 @@
     </tr>
     </table>
 </details>
-
 
 <br/>
 <br/>
