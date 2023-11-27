@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm meriem bounaas</h1>
+<h1 align="center">Hi 👋, I'm Meriem BOUNAAS</h1>
 
 ![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+Test+Engineer)
 
