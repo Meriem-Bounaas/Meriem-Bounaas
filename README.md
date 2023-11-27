@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm meriem bounaas</h1>
 
-![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+Front+-end+Developer)
+![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+Test+Engineer)
 
-- 🔭 I’m currently working on **front end projects using React**
-
-- 🌱 I’m currently learning **TypeScript**
-
-- 💬 Ask me about **React, Redux, Js, HTML5, CSS3, Tailwind, Git**
+- 🔭 I’m currently working on Automation and Manual Testing
 
 - 📫 How to reach me **www.linkedin.com/in/meriem-bounaas-a84171243/**
 
